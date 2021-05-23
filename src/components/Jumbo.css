@@ -1,0 +1,28 @@
+.jumbo {
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), 
+    url(./bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 2px;
+
+    min-height: 25vw;
+    border-radius: 3px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumboTitle {
+    font-family: sans-serif;
+    font-size: 4rem;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}

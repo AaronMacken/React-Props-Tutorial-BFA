@@ -1,0 +1,10 @@
+.infoCardsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+}
